@@ -4,7 +4,7 @@ function createBot() {
   const bot = mineflayer.createBot({
     host: "zurnacraft.net",
     port: 25565,
-    username: "obbyzzafk",
+    username: "obbyzzafk2",
     version: "1.19"
   })
 
